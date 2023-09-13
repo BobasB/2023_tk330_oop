@@ -37,8 +37,28 @@ def hello_world():
 
 - Якщо вставляти з допомогою підсвітки синтаксису, код буде мати наступний вигляд:
 
-```python
-def hello_world():
-    print("Hello, world!")
-```
+    1. Код написаний на Python:
+        ```python
+        def hello_world():
+            print("Hello, world!")
+        ```
+    1. Код написаний на Java:
+        ```java
+        public class HelloWorld {
+            public static void main(String[] args) {
+                System.out.println("Hello, world!");
+            }
+        }
+        ```
+---
+
+### Робота з таблицями
+
+| Навчальний заклад (лого) | Група | Імя |
+|:---:|---:|---:|
+|![будь який текст](logo-lit.jpg "ІТ коледж Львів")|**ТК - 330**|_Богдан_|
+|![](logo-lp.jpg "Національний Університет Львівська політехніка")| ТК - 1 | Богдан |
+
+---
+
 
