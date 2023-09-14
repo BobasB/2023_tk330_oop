@@ -37,4 +37,3 @@ def simple_function_example():
 - :question: Побажання для покращення (Suggestions);
 ---
 
-
