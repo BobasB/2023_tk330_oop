@@ -22,7 +22,7 @@
 | [Вступ, робота з Markdown](init/README.md)|:heavy_check_mark:|
 | [Лабораторна робота 1](01_lab/README.md)  |:heavy_check_mark:|
 | [Лабораторна робота 2](2_lab/README.md)   |:heavy_check_mark:|
-| Лабораторна робота 3                      |:smiling_imp:|
+| [Лабораторна робота 3](3_lab/README.md)   |:heavy_check_mark:|
 | Лабораторна робота 4                      |:smiling_imp:|
 | Лабораторна робота 5                      |:smiling_imp:|
 
