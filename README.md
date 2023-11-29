@@ -19,12 +19,12 @@
 
 | Лабораторна робота | Статус виконання |
 |-------------------------------------------|---------------|
-| [Вступ, робота з Markdown](init/README.md)|:heavy_check_mark:|
-| [Лабораторна робота 1](01_lab/README.md)  |:heavy_check_mark:|
-| [Лабораторна робота 2](2_lab/README.md)   |:heavy_check_mark:|
-| [Лабораторна робота 3](3_lab/README.md)   |:heavy_check_mark:|
-| [Лабораторна робота 4](4_lab/README.md)   |:heavy_check_mark:|
-| Лабораторна робота 5                      |:smiling_imp:|
+| [Вступ, робота з Markdown](init/README.md)                        |:heavy_check_mark:|
+| [Лабораторна робота 1](01_lab/README.md)                          |:heavy_check_mark:|
+| [Лабораторна робота 2](2_lab/README.md)                           |:heavy_check_mark:|
+| [Лабораторна робота 3](3_lab/README.md)                           |:heavy_check_mark:|
+| [Лабораторна робота 4](4_lab/README.md)                           |:heavy_check_mark:|
+| [Лабораторна робота 5](https://bobasb.github.io/2023_tk330_oop/)  |:heavy_check_mark:|
 
 Ця таблиця буде оновлюватися після кожного заняття, в якому ви виконаєте лабораторну роботу. Ви можете відстежувати свій прогрес та переглядати завдання у відповідних папках репозиторію.
 
